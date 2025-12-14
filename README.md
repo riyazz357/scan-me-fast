@@ -1,4 +1,4 @@
-# ⚡ FastAPI QR Microservice (Day 4)
+# ⚡ FastAPI QR Microservice
 
 A high-performance, asynchronous REST API that generates customizable QR codes on the fly. Built with **FastAPI** to be lightweight and blazing fast.
 
