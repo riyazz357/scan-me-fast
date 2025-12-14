@@ -2,7 +2,7 @@
 
 A high-performance, asynchronous REST API that generates customizable QR codes on the fly. Built with **FastAPI** to be lightweight and blazing fast.
 
-**Part of the "15 Days, 15 Projects" Challenge.**
+
 
 ## 🚀 Features
 
